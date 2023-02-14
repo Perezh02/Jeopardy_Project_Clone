@@ -12,11 +12,6 @@ body {
     font-family: 'Anton', sans-serif;
 }
 
-div {
-    
-    font-size: 14px;
-}
-
 #game {
     display: flex;
     background-color: rgb(32, 32, 32); 
@@ -32,38 +27,8 @@ div {
     border-top: 10px solid rgb(1, 61, 200);
     border-bottom: 10px solid rgb(20, 20, 89);
     text-align: center;
-    font-size: 99px;
+    font-size: 100px;
     margin: 5px;
-    padding: 11px;
-    line-height: 100px;
-    
+    padding: 10px;
+    line-height: 120px;
 }
-
-
-
-
-.first-button {
-    background-color: rgb(24,171,24);
-}
-
-.second-button {
-    background-color: rgb(232, 52, 24);
-}
-
-.genre-title { 
-    background-color: rgb(26,26,255);
-    text-align: center;
-    font-size: 28px;
-    padding: 5px;
-    margin: 5px;
-
-}
-
-.correct-answer {
-    background-color: rgb(186,186,24);
-}
-
-.wrong-answer {
-    background-color: rgb(221,64,56);
-}
-
